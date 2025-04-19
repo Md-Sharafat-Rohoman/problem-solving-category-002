@@ -1,4 +1,4 @@
-function willSuccess(input) {
+/* function willSuccess(input) {
     if (!Array.isArray(input)) {
         return "Invalid";
     }
@@ -16,7 +16,7 @@ function willSuccess(input) {
     }
 
     return passCount > failCount;
-}
+} */
 
 
 function willSuccess(input){
